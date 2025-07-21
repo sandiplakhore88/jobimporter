@@ -1,0 +1,15 @@
+.loginWrapper {
+  overflow: hidden;
+}
+
+.formSection {
+  background-color: #fff;
+}
+
+.rightSection {
+  background: url('../../public/login.jpg') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
